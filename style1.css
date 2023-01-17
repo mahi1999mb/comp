@@ -1,0 +1,16 @@
+*{
+    background-color: aqua;
+}
+.home{
+    background-color: aqua;
+    }
+    .two{
+        border: 5px solid sandybrown;
+        height: 800px
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    h1:hover{
+color:red;
+    }
+    

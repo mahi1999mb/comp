@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+#a{
+    font-size: 30px;
+    color: black;
+}

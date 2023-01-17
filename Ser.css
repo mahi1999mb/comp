@@ -1,0 +1,10 @@
+.a{
+    border: 2px solid salmon;
+    height: 600px;
+    border-radius: 0.5cm;
+    background-color: bisque;
+}
+.b{
+    color: black;
+    font-size: 50px;
+}
